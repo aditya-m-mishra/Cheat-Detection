@@ -1,0 +1,22 @@
+Virtual Environment
+
+venv/
+
+Python cache
+
+pycache/
+*.pyc
+
+Jupyter
+
+.ipynb_checkpoints/
+
+IDE files
+
+.idea/
+.vscode/
+
+OS files
+
+.DS_Store
+Thumbs.db
